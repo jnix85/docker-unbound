@@ -1,4 +1,4 @@
-name: alpine-image-build
+name: unbound-image-build
 
 on:
   schedule:
